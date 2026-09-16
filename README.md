@@ -15,11 +15,15 @@ AI-Powered Real-Time Street Safety Detection System The Street Safety Monitor is
 
 -> Tech Stack 
 
--Streamlit — Web app framework 
--OpenCV — Computer vision processing 
--NumPy — Numerical operations 
--Streamlit WebRTC — Live webcam streaming 
--av — Frame handling between OpenCV and WebRTC
+Streamlit — Web app framework
+
+OpenCV — Computer vision processing
+
+NumPy — Numerical operations
+
+Streamlit WebRTC — Live webcam streaming
+
+av — Frame handling between OpenCV and WebRTC
 
 -> Example Use Cases
 
