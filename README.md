@@ -2,11 +2,9 @@ Street Safety Monitor
 
 -> Street-safety-monitor 
 
-AI-Powered Real-Time Street Safety Detection System The Street Safety Monitor is an intelligent Streamlit-based system that uses computer vision and WebRTC live streaming to detect people, monitor motion patterns, and generate alerts for potentially unsafe street activities — all in real time, directly in your browser
+AI-Powered Real-Time Street Safety Detection System The Street Safety Monitor is an intelligent Streamlit-based system that uses computer vision to detect people, monitor motion patterns, and generate alerts for potentially unsafe street activities.
 
 -> Features -
-
-Live Camera Detection (WebRTC) — Access your webcam securely in-browser
 
 Person Detection using OpenCV Haar cascades 
 
@@ -26,9 +24,7 @@ OpenCV — Computer vision processing
 
 NumPy — Numerical operations
 
-Streamlit WebRTC — Live webcam streaming
-
-av — Frame handling between OpenCV and WebRTC
+av — Frame handling between OpenCV 
 
 -> Example Use Cases
 
