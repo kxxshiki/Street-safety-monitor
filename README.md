@@ -6,12 +6,17 @@ AI-Powered Real-Time Street Safety Detection System The Street Safety Monitor is
 
 -> Features -
 
--Live Camera Detection (WebRTC) — Access your webcam securely in-browser 
--Person Detection using OpenCV Haar cascades 
--Motion Detection for tracking unusual activity 
--Privacy Protection — Automatic face blurring 
--Dynamic Alerts (High / Medium / Low) 
--Real-Time Statistics Dashboard
+Live Camera Detection (WebRTC) — Access your webcam securely in-browser
+
+Person Detection using OpenCV Haar cascades 
+
+Motion Detection for tracking unusual activity 
+
+Privacy Protection — Automatic face blurring 
+
+Dynamic Alerts (High / Medium / Low) 
+
+Real-Time Statistics Dashboard
 
 -> Tech Stack 
 
